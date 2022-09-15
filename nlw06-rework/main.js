@@ -67,7 +67,7 @@ ScrollReveal().reveal(`
 .divider-01,.divider-02,
 #about p,
 #services h2,flex,.cards,.card, .card i, .card h3,
-#testimonials h2,.swiper, .swiper-slide testinonial, blockquote,
+#testimonials h2,.swiper, .swiper-slide .testinonial, blockquote,
 #contact .contacts-info, .contacts-info i,
 footer .logo, footer p, .social`,slideUp)
 
